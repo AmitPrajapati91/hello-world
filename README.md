@@ -2,5 +2,5 @@
 
 Hi!!
 
-Amit here, This repo I have created to maintain all web-scripts as well as Automation docs.
+Amit here, This repo I have created to maintain all web-scripts as well as automation docs.
 
